@@ -3,7 +3,7 @@ import pandas as pd
 import networkx as nx
 import random
 
-def SIR(G, beta=0.5, gamma=1, init=1, max_time=20):
+def SIR(G, i_rate=0.5, r_rate=1, init=1, max_time=20):
     
     # initialise network and event queue
     queue = []
@@ -11,12 +11,12 @@ def SIR(G, beta=0.5, gamma=1, init=1, max_time=20):
     init_infecteds = random.sample(list(G.nodes()), init)
     for node in init_infecteds:
         G.nodes[node]["status"] = "I"
-        r_time = np.random.exponential(gamma)
+        r_time = np.random.exponential(r_rate)
         queue.append({"time": r_time,
                       "node": node,
                       "type": "R"})
         for neighbor in G.neighbors(node):
-            i_time = np.random.exponential(beta)
+            i_time = np.random.exponential(i_rate)
             if i_time < r_time:
                 queue.append({"time": i_time,
                       "node": neighbor,
@@ -49,7 +49,7 @@ def SIR(G, beta=0.5, gamma=1, init=1, max_time=20):
         if event_type == "I" and G.nodes[node]["status"] == "S":
             G.nodes[node]["status"] = event_type
             # create a recovery event and queue it
-            r_time = np.random.exponential(gamma)
+            r_time = np.random.exponential(r_rate)
             queue.append({"time": r_time + time,
                           "node": node,
                           "type": "R"})
@@ -61,7 +61,7 @@ def SIR(G, beta=0.5, gamma=1, init=1, max_time=20):
                            "R": r_count})
             # then create infection events for neighbors
             for neighbor in G.neighbors(node):
-                i_time = np.random.exponential(beta)
+                i_time = np.random.exponential(i_rate)
                 if i_time < r_time:
                     queue.append({"time": i_time + time,
                                   "node": neighbor,
