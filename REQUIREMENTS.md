@@ -1,6 +1,6 @@
 # data-science #
 
-This repository contains examples of work in data analytics.
+The package requirements for each directory are listed below.
 
 ## Epidemics ##
 numpy
