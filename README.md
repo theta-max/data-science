@@ -2,9 +2,11 @@
 
 This repository contains examples of work in data science and analytics.
 
+## Epidemics ##
 <details>
-<summary>## Epidemics ##
-This directory contains a Python implementation of an SIR infection model, which simulates the spread of an infectious disease through a networked population. The file contains two functions. The model simulates infection as a per-edge Poisson point process and uses the event-queue method.</summary>
+<summary>
+This directory contains a Python implementation of an SIR infection model, which simulates the spread of an infectious disease through a networked population. The file contains two functions. The model simulates infection as a per-edge Poisson point process and uses the event-queue method.
+</summary>
 
 The SIR function takes parameters arg G (a networkx graph object) and kwargs beta (per-edge infection rate), gamma=1 (recovery rate), init=1 (number of initial infections), max_time=20 (maximum time to run the simulation; since SIR models should always reach equilibrium infinite loops should not occur, but this kwarg is included on a belt-and-braces basis.
 
