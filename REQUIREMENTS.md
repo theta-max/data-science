@@ -2,8 +2,12 @@
 
 The package requirements for each directory are listed below.
 
-## Epidemics ##
+## epidemics.py ##
 numpy
 pandas
 networkx
 random
+
+## swapchain.py ##
+pandas
+networkx
