@@ -14,7 +14,7 @@ The **timeshift function** is an auxiliary function which aligns multiple model 
 
 Together, these functions allow multiple model runs to be collated and aligned. It is straightforward to then, for example, plot the results:
 
-![Plot of 50 SIR model runs](Networks/50_runs.png  "Plot of 50 SIR model runs")
+![Plot of 50 SIR model runs](Images/Networks/50_runs.png  "Plot of 50 SIR model runs")
  
 </details>
 
