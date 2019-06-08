@@ -1,0 +1,184 @@
+Step,chain_no,chain_size,Student,From,To
+1,14,10,Nancey Mcgilvray,V1417 Time and Place: 1956: The Battle of Algiers,V1449 Time and Place: 1948: The Arab-Israeli Conflict
+2,14,10,Mora Chillemi,V1449 Time and Place: 1948: The Arab-Israeli Conflict,V1331 Time and Place: 1942: Holocaust
+3,14,10,Felisha Hauk,V1331 Time and Place: 1942: Holocaust,V1330 Time and Place: 1938: Kristallnacht
+4,14,10,Marinda Ishida,V1330 Time and Place: 1938: Kristallnacht,V1425 Time and Place: 1861: The Coming of the American Civil War
+5,14,10,Sarita Semple,V1425 Time and Place: 1861: The Coming of the American Civil War,V1474 Time and Place: 1453: The European Renaissance
+6,14,10,Tatum Gao,V1474 Time and Place: 1453: The European Renaissance,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis
+7,14,10,Nikita Saito,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis,"V1373 Time and Place 1851: Science, Empire and Exhibitionism"
+8,14,10,Rosalina Finck,"V1373 Time and Place 1851: Science, Empire and Exhibitionism",V1464 Time and Place: 1981: The Iran Hostage Crisis
+9,14,10,Caterina Theberge,V1464 Time and Place: 1981: The Iran Hostage Crisis,V1404 Time and Place: 1968: Rivers of Blood
+10,14,10,Jessia Estey,V1404 Time and Place: 1968: Rivers of Blood,V1417 Time and Place: 1956: The Battle of Algiers
+1,6,9,Nancey Mcgilvray,V1417 Time and Place: 1956: The Battle of Algiers,V1449 Time and Place: 1948: The Arab-Israeli Conflict
+2,6,9,Joseph Upchurch,V1449 Time and Place: 1948: The Arab-Israeli Conflict,V1425 Time and Place: 1861: The Coming of the American Civil War
+3,6,9,Sarita Semple,V1425 Time and Place: 1861: The Coming of the American Civil War,V1474 Time and Place: 1453: The European Renaissance
+4,6,9,Tatum Gao,V1474 Time and Place: 1453: The European Renaissance,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis
+5,6,9,Wilber Chagnon,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis,V1330 Time and Place: 1938: Kristallnacht
+6,6,9,Vernie Bodily,V1330 Time and Place: 1938: Kristallnacht,"V1373 Time and Place 1851: Science, Empire and Exhibitionism"
+7,6,9,Rosalina Finck,"V1373 Time and Place 1851: Science, Empire and Exhibitionism",V1464 Time and Place: 1981: The Iran Hostage Crisis
+8,6,9,Caterina Theberge,V1464 Time and Place: 1981: The Iran Hostage Crisis,V1404 Time and Place: 1968: Rivers of Blood
+9,6,9,Jessia Estey,V1404 Time and Place: 1968: Rivers of Blood,V1417 Time and Place: 1956: The Battle of Algiers
+1,11,9,Nancey Mcgilvray,V1417 Time and Place: 1956: The Battle of Algiers,V1449 Time and Place: 1948: The Arab-Israeli Conflict
+2,11,9,Mora Chillemi,V1449 Time and Place: 1948: The Arab-Israeli Conflict,V1331 Time and Place: 1942: Holocaust
+3,11,9,Felisha Hauk,V1331 Time and Place: 1942: Holocaust,V1330 Time and Place: 1938: Kristallnacht
+4,11,9,Marinda Ishida,V1330 Time and Place: 1938: Kristallnacht,V1425 Time and Place: 1861: The Coming of the American Civil War
+5,11,9,Jamal Bachelder,V1425 Time and Place: 1861: The Coming of the American Civil War,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis
+6,11,9,Nikita Saito,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis,"V1373 Time and Place 1851: Science, Empire and Exhibitionism"
+7,11,9,Rosalina Finck,"V1373 Time and Place 1851: Science, Empire and Exhibitionism",V1464 Time and Place: 1981: The Iran Hostage Crisis
+8,11,9,Caterina Theberge,V1464 Time and Place: 1981: The Iran Hostage Crisis,V1404 Time and Place: 1968: Rivers of Blood
+9,11,9,Jessia Estey,V1404 Time and Place: 1968: Rivers of Blood,V1417 Time and Place: 1956: The Battle of Algiers
+1,1,8,Nancey Mcgilvray,V1417 Time and Place: 1956: The Battle of Algiers,V1449 Time and Place: 1948: The Arab-Israeli Conflict
+2,1,8,Joseph Upchurch,V1449 Time and Place: 1948: The Arab-Israeli Conflict,V1425 Time and Place: 1861: The Coming of the American Civil War
+3,1,8,Jamal Bachelder,V1425 Time and Place: 1861: The Coming of the American Civil War,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis
+4,1,8,Wilber Chagnon,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis,V1330 Time and Place: 1938: Kristallnacht
+5,1,8,Vernie Bodily,V1330 Time and Place: 1938: Kristallnacht,"V1373 Time and Place 1851: Science, Empire and Exhibitionism"
+6,1,8,Rosalina Finck,"V1373 Time and Place 1851: Science, Empire and Exhibitionism",V1464 Time and Place: 1981: The Iran Hostage Crisis
+7,1,8,Caterina Theberge,V1464 Time and Place: 1981: The Iran Hostage Crisis,V1404 Time and Place: 1968: Rivers of Blood
+8,1,8,Jessia Estey,V1404 Time and Place: 1968: Rivers of Blood,V1417 Time and Place: 1956: The Battle of Algiers
+1,8,8,Nancey Mcgilvray,V1417 Time and Place: 1956: The Battle of Algiers,V1449 Time and Place: 1948: The Arab-Israeli Conflict
+2,8,8,Joseph Upchurch,V1449 Time and Place: 1948: The Arab-Israeli Conflict,V1425 Time and Place: 1861: The Coming of the American Civil War
+3,8,8,Sarita Semple,V1425 Time and Place: 1861: The Coming of the American Civil War,V1474 Time and Place: 1453: The European Renaissance
+4,8,8,Tatum Gao,V1474 Time and Place: 1453: The European Renaissance,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis
+5,8,8,Nikita Saito,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis,"V1373 Time and Place 1851: Science, Empire and Exhibitionism"
+6,8,8,Rosalina Finck,"V1373 Time and Place 1851: Science, Empire and Exhibitionism",V1464 Time and Place: 1981: The Iran Hostage Crisis
+7,8,8,Caterina Theberge,V1464 Time and Place: 1981: The Iran Hostage Crisis,V1404 Time and Place: 1968: Rivers of Blood
+8,8,8,Jessia Estey,V1404 Time and Place: 1968: Rivers of Blood,V1417 Time and Place: 1956: The Battle of Algiers
+1,12,8,Nancey Mcgilvray,V1417 Time and Place: 1956: The Battle of Algiers,V1449 Time and Place: 1948: The Arab-Israeli Conflict
+2,12,8,Mora Chillemi,V1449 Time and Place: 1948: The Arab-Israeli Conflict,V1331 Time and Place: 1942: Holocaust
+3,12,8,Felisha Hauk,V1331 Time and Place: 1942: Holocaust,V1330 Time and Place: 1938: Kristallnacht
+4,12,8,Marinda Ishida,V1330 Time and Place: 1938: Kristallnacht,V1425 Time and Place: 1861: The Coming of the American Civil War
+5,12,8,Dorcas Hans,V1425 Time and Place: 1861: The Coming of the American Civil War,"V1373 Time and Place 1851: Science, Empire and Exhibitionism"
+6,12,8,Rosalina Finck,"V1373 Time and Place 1851: Science, Empire and Exhibitionism",V1464 Time and Place: 1981: The Iran Hostage Crisis
+7,12,8,Caterina Theberge,V1464 Time and Place: 1981: The Iran Hostage Crisis,V1404 Time and Place: 1968: Rivers of Blood
+8,12,8,Jessia Estey,V1404 Time and Place: 1968: Rivers of Blood,V1417 Time and Place: 1956: The Battle of Algiers
+1,31,8,Sarita Semple,V1425 Time and Place: 1861: The Coming of the American Civil War,V1474 Time and Place: 1453: The European Renaissance
+2,31,8,Tatum Gao,V1474 Time and Place: 1453: The European Renaissance,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis
+3,31,8,Nikita Saito,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis,"V1373 Time and Place 1851: Science, Empire and Exhibitionism"
+4,31,8,Rosalina Finck,"V1373 Time and Place 1851: Science, Empire and Exhibitionism",V1464 Time and Place: 1981: The Iran Hostage Crisis
+5,31,8,Margit Arrigo,V1464 Time and Place: 1981: The Iran Hostage Crisis,V1449 Time and Place: 1948: The Arab-Israeli Conflict
+6,31,8,Mora Chillemi,V1449 Time and Place: 1948: The Arab-Israeli Conflict,V1331 Time and Place: 1942: Holocaust
+7,31,8,Felisha Hauk,V1331 Time and Place: 1942: Holocaust,V1330 Time and Place: 1938: Kristallnacht
+8,31,8,Marinda Ishida,V1330 Time and Place: 1938: Kristallnacht,V1425 Time and Place: 1861: The Coming of the American Civil War
+1,3,7,Nancey Mcgilvray,V1417 Time and Place: 1956: The Battle of Algiers,V1449 Time and Place: 1948: The Arab-Israeli Conflict
+2,3,7,Joseph Upchurch,V1449 Time and Place: 1948: The Arab-Israeli Conflict,V1425 Time and Place: 1861: The Coming of the American Civil War
+3,3,7,Jamal Bachelder,V1425 Time and Place: 1861: The Coming of the American Civil War,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis
+4,3,7,Nikita Saito,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis,"V1373 Time and Place 1851: Science, Empire and Exhibitionism"
+5,3,7,Rosalina Finck,"V1373 Time and Place 1851: Science, Empire and Exhibitionism",V1464 Time and Place: 1981: The Iran Hostage Crisis
+6,3,7,Caterina Theberge,V1464 Time and Place: 1981: The Iran Hostage Crisis,V1404 Time and Place: 1968: Rivers of Blood
+7,3,7,Jessia Estey,V1404 Time and Place: 1968: Rivers of Blood,V1417 Time and Place: 1956: The Battle of Algiers
+1,9,7,Nancey Mcgilvray,V1417 Time and Place: 1956: The Battle of Algiers,V1449 Time and Place: 1948: The Arab-Israeli Conflict
+2,9,7,Mora Chillemi,V1449 Time and Place: 1948: The Arab-Israeli Conflict,V1331 Time and Place: 1942: Holocaust
+3,9,7,Felisha Hauk,V1331 Time and Place: 1942: Holocaust,V1330 Time and Place: 1938: Kristallnacht
+4,9,7,Vernie Bodily,V1330 Time and Place: 1938: Kristallnacht,"V1373 Time and Place 1851: Science, Empire and Exhibitionism"
+5,9,7,Rosalina Finck,"V1373 Time and Place 1851: Science, Empire and Exhibitionism",V1464 Time and Place: 1981: The Iran Hostage Crisis
+6,9,7,Caterina Theberge,V1464 Time and Place: 1981: The Iran Hostage Crisis,V1404 Time and Place: 1968: Rivers of Blood
+7,9,7,Jessia Estey,V1404 Time and Place: 1968: Rivers of Blood,V1417 Time and Place: 1956: The Battle of Algiers
+1,13,7,Nancey Mcgilvray,V1417 Time and Place: 1956: The Battle of Algiers,V1449 Time and Place: 1948: The Arab-Israeli Conflict
+2,13,7,Mora Chillemi,V1449 Time and Place: 1948: The Arab-Israeli Conflict,V1331 Time and Place: 1942: Holocaust
+3,13,7,Felisha Hauk,V1331 Time and Place: 1942: Holocaust,V1330 Time and Place: 1938: Kristallnacht
+4,13,7,Marinda Ishida,V1330 Time and Place: 1938: Kristallnacht,V1425 Time and Place: 1861: The Coming of the American Civil War
+5,13,7,Danyelle Shedd,V1425 Time and Place: 1861: The Coming of the American Civil War,V1464 Time and Place: 1981: The Iran Hostage Crisis
+6,13,7,Caterina Theberge,V1464 Time and Place: 1981: The Iran Hostage Crisis,V1404 Time and Place: 1968: Rivers of Blood
+7,13,7,Jessia Estey,V1404 Time and Place: 1968: Rivers of Blood,V1417 Time and Place: 1956: The Battle of Algiers
+1,19,7,Jamal Bachelder,V1425 Time and Place: 1861: The Coming of the American Civil War,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis
+2,19,7,Nikita Saito,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis,"V1373 Time and Place 1851: Science, Empire and Exhibitionism"
+3,19,7,Rosalina Finck,"V1373 Time and Place 1851: Science, Empire and Exhibitionism",V1464 Time and Place: 1981: The Iran Hostage Crisis
+4,19,7,Margit Arrigo,V1464 Time and Place: 1981: The Iran Hostage Crisis,V1449 Time and Place: 1948: The Arab-Israeli Conflict
+5,19,7,Mora Chillemi,V1449 Time and Place: 1948: The Arab-Israeli Conflict,V1331 Time and Place: 1942: Holocaust
+6,19,7,Felisha Hauk,V1331 Time and Place: 1942: Holocaust,V1330 Time and Place: 1938: Kristallnacht
+7,19,7,Marinda Ishida,V1330 Time and Place: 1938: Kristallnacht,V1425 Time and Place: 1861: The Coming of the American Civil War
+1,27,7,Sarita Semple,V1425 Time and Place: 1861: The Coming of the American Civil War,V1474 Time and Place: 1453: The European Renaissance
+2,27,7,Tatum Gao,V1474 Time and Place: 1453: The European Renaissance,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis
+3,27,7,Wilber Chagnon,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis,V1330 Time and Place: 1938: Kristallnacht
+4,27,7,Vernie Bodily,V1330 Time and Place: 1938: Kristallnacht,"V1373 Time and Place 1851: Science, Empire and Exhibitionism"
+5,27,7,Rosalina Finck,"V1373 Time and Place 1851: Science, Empire and Exhibitionism",V1464 Time and Place: 1981: The Iran Hostage Crisis
+6,27,7,Margit Arrigo,V1464 Time and Place: 1981: The Iran Hostage Crisis,V1449 Time and Place: 1948: The Arab-Israeli Conflict
+7,27,7,Joseph Upchurch,V1449 Time and Place: 1948: The Arab-Israeli Conflict,V1425 Time and Place: 1861: The Coming of the American Civil War
+1,4,6,Nancey Mcgilvray,V1417 Time and Place: 1956: The Battle of Algiers,V1449 Time and Place: 1948: The Arab-Israeli Conflict
+2,4,6,Joseph Upchurch,V1449 Time and Place: 1948: The Arab-Israeli Conflict,V1425 Time and Place: 1861: The Coming of the American Civil War
+3,4,6,Dorcas Hans,V1425 Time and Place: 1861: The Coming of the American Civil War,"V1373 Time and Place 1851: Science, Empire and Exhibitionism"
+4,4,6,Rosalina Finck,"V1373 Time and Place 1851: Science, Empire and Exhibitionism",V1464 Time and Place: 1981: The Iran Hostage Crisis
+5,4,6,Caterina Theberge,V1464 Time and Place: 1981: The Iran Hostage Crisis,V1404 Time and Place: 1968: Rivers of Blood
+6,4,6,Jessia Estey,V1404 Time and Place: 1968: Rivers of Blood,V1417 Time and Place: 1956: The Battle of Algiers
+1,7,6,Nancey Mcgilvray,V1417 Time and Place: 1956: The Battle of Algiers,V1449 Time and Place: 1948: The Arab-Israeli Conflict
+2,7,6,Joseph Upchurch,V1449 Time and Place: 1948: The Arab-Israeli Conflict,V1425 Time and Place: 1861: The Coming of the American Civil War
+3,7,6,Sarita Semple,V1425 Time and Place: 1861: The Coming of the American Civil War,V1474 Time and Place: 1453: The European Renaissance
+4,7,6,Tatum Gao,V1474 Time and Place: 1453: The European Renaissance,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis
+5,7,6,Wilber Chagnon,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis,V1330 Time and Place: 1938: Kristallnacht
+6,7,6,Whitley Mulder,V1330 Time and Place: 1938: Kristallnacht,V1417 Time and Place: 1956: The Battle of Algiers
+1,15,6,Jamal Bachelder,V1425 Time and Place: 1861: The Coming of the American Civil War,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis
+2,15,6,Wilber Chagnon,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis,V1330 Time and Place: 1938: Kristallnacht
+3,15,6,Vernie Bodily,V1330 Time and Place: 1938: Kristallnacht,"V1373 Time and Place 1851: Science, Empire and Exhibitionism"
+4,15,6,Rosalina Finck,"V1373 Time and Place 1851: Science, Empire and Exhibitionism",V1464 Time and Place: 1981: The Iran Hostage Crisis
+5,15,6,Margit Arrigo,V1464 Time and Place: 1981: The Iran Hostage Crisis,V1449 Time and Place: 1948: The Arab-Israeli Conflict
+6,15,6,Joseph Upchurch,V1449 Time and Place: 1948: The Arab-Israeli Conflict,V1425 Time and Place: 1861: The Coming of the American Civil War
+1,21,6,Dorcas Hans,V1425 Time and Place: 1861: The Coming of the American Civil War,"V1373 Time and Place 1851: Science, Empire and Exhibitionism"
+2,21,6,Rosalina Finck,"V1373 Time and Place 1851: Science, Empire and Exhibitionism",V1464 Time and Place: 1981: The Iran Hostage Crisis
+3,21,6,Margit Arrigo,V1464 Time and Place: 1981: The Iran Hostage Crisis,V1449 Time and Place: 1948: The Arab-Israeli Conflict
+4,21,6,Mora Chillemi,V1449 Time and Place: 1948: The Arab-Israeli Conflict,V1331 Time and Place: 1942: Holocaust
+5,21,6,Felisha Hauk,V1331 Time and Place: 1942: Holocaust,V1330 Time and Place: 1938: Kristallnacht
+6,21,6,Marinda Ishida,V1330 Time and Place: 1938: Kristallnacht,V1425 Time and Place: 1861: The Coming of the American Civil War
+1,30,6,Sarita Semple,V1425 Time and Place: 1861: The Coming of the American Civil War,V1474 Time and Place: 1453: The European Renaissance
+2,30,6,Tatum Gao,V1474 Time and Place: 1453: The European Renaissance,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis
+3,30,6,Nikita Saito,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis,"V1373 Time and Place 1851: Science, Empire and Exhibitionism"
+4,30,6,Rosalina Finck,"V1373 Time and Place 1851: Science, Empire and Exhibitionism",V1464 Time and Place: 1981: The Iran Hostage Crisis
+5,30,6,Margit Arrigo,V1464 Time and Place: 1981: The Iran Hostage Crisis,V1449 Time and Place: 1948: The Arab-Israeli Conflict
+6,30,6,Joseph Upchurch,V1449 Time and Place: 1948: The Arab-Israeli Conflict,V1425 Time and Place: 1861: The Coming of the American Civil War
+1,2,5,Nancey Mcgilvray,V1417 Time and Place: 1956: The Battle of Algiers,V1449 Time and Place: 1948: The Arab-Israeli Conflict
+2,2,5,Joseph Upchurch,V1449 Time and Place: 1948: The Arab-Israeli Conflict,V1425 Time and Place: 1861: The Coming of the American Civil War
+3,2,5,Jamal Bachelder,V1425 Time and Place: 1861: The Coming of the American Civil War,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis
+4,2,5,Wilber Chagnon,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis,V1330 Time and Place: 1938: Kristallnacht
+5,2,5,Whitley Mulder,V1330 Time and Place: 1938: Kristallnacht,V1417 Time and Place: 1956: The Battle of Algiers
+1,5,5,Nancey Mcgilvray,V1417 Time and Place: 1956: The Battle of Algiers,V1449 Time and Place: 1948: The Arab-Israeli Conflict
+2,5,5,Joseph Upchurch,V1449 Time and Place: 1948: The Arab-Israeli Conflict,V1425 Time and Place: 1861: The Coming of the American Civil War
+3,5,5,Danyelle Shedd,V1425 Time and Place: 1861: The Coming of the American Civil War,V1464 Time and Place: 1981: The Iran Hostage Crisis
+4,5,5,Caterina Theberge,V1464 Time and Place: 1981: The Iran Hostage Crisis,V1404 Time and Place: 1968: Rivers of Blood
+5,5,5,Jessia Estey,V1404 Time and Place: 1968: Rivers of Blood,V1417 Time and Place: 1956: The Battle of Algiers
+1,18,5,Jamal Bachelder,V1425 Time and Place: 1861: The Coming of the American Civil War,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis
+2,18,5,Nikita Saito,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis,"V1373 Time and Place 1851: Science, Empire and Exhibitionism"
+3,18,5,Rosalina Finck,"V1373 Time and Place 1851: Science, Empire and Exhibitionism",V1464 Time and Place: 1981: The Iran Hostage Crisis
+4,18,5,Margit Arrigo,V1464 Time and Place: 1981: The Iran Hostage Crisis,V1449 Time and Place: 1948: The Arab-Israeli Conflict
+5,18,5,Joseph Upchurch,V1449 Time and Place: 1948: The Arab-Israeli Conflict,V1425 Time and Place: 1861: The Coming of the American Civil War
+1,25,5,Danyelle Shedd,V1425 Time and Place: 1861: The Coming of the American Civil War,V1464 Time and Place: 1981: The Iran Hostage Crisis
+2,25,5,Margit Arrigo,V1464 Time and Place: 1981: The Iran Hostage Crisis,V1449 Time and Place: 1948: The Arab-Israeli Conflict
+3,25,5,Mora Chillemi,V1449 Time and Place: 1948: The Arab-Israeli Conflict,V1331 Time and Place: 1942: Holocaust
+4,25,5,Felisha Hauk,V1331 Time and Place: 1942: Holocaust,V1330 Time and Place: 1938: Kristallnacht
+5,25,5,Marinda Ishida,V1330 Time and Place: 1938: Kristallnacht,V1425 Time and Place: 1861: The Coming of the American Civil War
+1,32,5,Vernie Bodily,V1330 Time and Place: 1938: Kristallnacht,"V1373 Time and Place 1851: Science, Empire and Exhibitionism"
+2,32,5,Rosalina Finck,"V1373 Time and Place 1851: Science, Empire and Exhibitionism",V1464 Time and Place: 1981: The Iran Hostage Crisis
+3,32,5,Margit Arrigo,V1464 Time and Place: 1981: The Iran Hostage Crisis,V1449 Time and Place: 1948: The Arab-Israeli Conflict
+4,32,5,Mora Chillemi,V1449 Time and Place: 1948: The Arab-Israeli Conflict,V1331 Time and Place: 1942: Holocaust
+5,32,5,Felisha Hauk,V1331 Time and Place: 1942: Holocaust,V1330 Time and Place: 1938: Kristallnacht
+1,10,4,Nancey Mcgilvray,V1417 Time and Place: 1956: The Battle of Algiers,V1449 Time and Place: 1948: The Arab-Israeli Conflict
+2,10,4,Mora Chillemi,V1449 Time and Place: 1948: The Arab-Israeli Conflict,V1331 Time and Place: 1942: Holocaust
+3,10,4,Felisha Hauk,V1331 Time and Place: 1942: Holocaust,V1330 Time and Place: 1938: Kristallnacht
+4,10,4,Whitley Mulder,V1330 Time and Place: 1938: Kristallnacht,V1417 Time and Place: 1956: The Battle of Algiers
+1,20,4,Dorcas Hans,V1425 Time and Place: 1861: The Coming of the American Civil War,"V1373 Time and Place 1851: Science, Empire and Exhibitionism"
+2,20,4,Rosalina Finck,"V1373 Time and Place 1851: Science, Empire and Exhibitionism",V1464 Time and Place: 1981: The Iran Hostage Crisis
+3,20,4,Margit Arrigo,V1464 Time and Place: 1981: The Iran Hostage Crisis,V1449 Time and Place: 1948: The Arab-Israeli Conflict
+4,20,4,Joseph Upchurch,V1449 Time and Place: 1948: The Arab-Israeli Conflict,V1425 Time and Place: 1861: The Coming of the American Civil War
+1,23,4,Freddy Clement,V1425 Time and Place: 1861: The Coming of the American Civil War,V1449 Time and Place: 1948: The Arab-Israeli Conflict
+2,23,4,Mora Chillemi,V1449 Time and Place: 1948: The Arab-Israeli Conflict,V1331 Time and Place: 1942: Holocaust
+3,23,4,Felisha Hauk,V1331 Time and Place: 1942: Holocaust,V1330 Time and Place: 1938: Kristallnacht
+4,23,4,Marinda Ishida,V1330 Time and Place: 1938: Kristallnacht,V1425 Time and Place: 1861: The Coming of the American Civil War
+1,28,4,Sarita Semple,V1425 Time and Place: 1861: The Coming of the American Civil War,V1474 Time and Place: 1453: The European Renaissance
+2,28,4,Tatum Gao,V1474 Time and Place: 1453: The European Renaissance,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis
+3,28,4,Wilber Chagnon,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis,V1330 Time and Place: 1938: Kristallnacht
+4,28,4,Marinda Ishida,V1330 Time and Place: 1938: Kristallnacht,V1425 Time and Place: 1861: The Coming of the American Civil War
+1,16,3,Jamal Bachelder,V1425 Time and Place: 1861: The Coming of the American Civil War,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis
+2,16,3,Wilber Chagnon,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis,V1330 Time and Place: 1938: Kristallnacht
+3,16,3,Marinda Ishida,V1330 Time and Place: 1938: Kristallnacht,V1425 Time and Place: 1861: The Coming of the American Civil War
+1,24,3,Danyelle Shedd,V1425 Time and Place: 1861: The Coming of the American Civil War,V1464 Time and Place: 1981: The Iran Hostage Crisis
+2,24,3,Margit Arrigo,V1464 Time and Place: 1981: The Iran Hostage Crisis,V1449 Time and Place: 1948: The Arab-Israeli Conflict
+3,24,3,Joseph Upchurch,V1449 Time and Place: 1948: The Arab-Israeli Conflict,V1425 Time and Place: 1861: The Coming of the American Civil War
+1,29,3,Sarita Semple,V1425 Time and Place: 1861: The Coming of the American Civil War,V1474 Time and Place: 1453: The European Renaissance
+2,29,3,Tatum Gao,V1474 Time and Place: 1453: The European Renaissance,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis
+3,29,3,Shanna Guillotte,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis,V1425 Time and Place: 1861: The Coming of the American Civil War
+1,17,2,Jamal Bachelder,V1425 Time and Place: 1861: The Coming of the American Civil War,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis
+2,17,2,Shanna Guillotte,V1428 Time and Place 2015: Fortress Europe and the Migration Crisis,V1425 Time and Place: 1861: The Coming of the American Civil War
+1,22,2,Freddy Clement,V1425 Time and Place: 1861: The Coming of the American Civil War,V1449 Time and Place: 1948: The Arab-Israeli Conflict
+2,22,2,Joseph Upchurch,V1449 Time and Place: 1948: The Arab-Israeli Conflict,V1425 Time and Place: 1861: The Coming of the American Civil War
+1,26,2,Sarita Semple,V1425 Time and Place: 1861: The Coming of the American Civil War,V1474 Time and Place: 1453: The European Renaissance
+2,26,2,Barabara Demeritt,V1474 Time and Place: 1453: The European Renaissance,V1425 Time and Place: 1861: The Coming of the American Civil War
+1,33,2,Buford Osei,V1404 Time and Place: 1968: Rivers of Blood,V1464 Time and Place: 1981: The Iran Hostage Crisis
+2,33,2,Caterina Theberge,V1464 Time and Place: 1981: The Iran Hostage Crisis,V1404 Time and Place: 1968: Rivers of Blood
