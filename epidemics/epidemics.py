@@ -5,10 +5,10 @@ import random
 
 def SIR(G, i_rate=0.5, r_rate=1, init=1, max_time=20):
     """Simulate an SIR epidemic on a network.
-    
+
     Arguments:
     G -- A NetworkX graph object
-    
+
     Keyword arguments:
     i_rate -- the constant per-edge rate of infection (default 0.5)
     r_rate -- the constant recovery rate of infected nodes (default 1)
@@ -39,7 +39,7 @@ def SIR(G, i_rate=0.5, r_rate=1, init=1, max_time=20):
                "S": s_count,
                "I": i_count,
                "R": r_count}]
-    
+
     # Main loop
     while queue and queue[-1]["time"] < max_time:
         # unpack the event variables from the queued event
@@ -88,11 +88,11 @@ def SIR(G, i_rate=0.5, r_rate=1, init=1, max_time=20):
 def timeshift(df, threshold, criterion="Infected", time="time"):
     """Add a series of adjusted times, zeroed on a threshold number
     of infections.
-    
+
     Arguments:
     df -- A Pandas dataframe in the format output by the SIR function
     threshold -- an integer number of infections to be set to time zero
-    
+
     Keyword arguments:
     criterion -- the column in df containing the critrion to which the
     threshold applies (default "Infected")
