@@ -2,8 +2,7 @@
 
 This repository contains examples of work in data science and analytics.
 
-## Networks ##
-#### Epidemics: stochastic processes on networks ####
+### Epidemics: stochastic processes on networks
 <details>
 <summary>epidemics.py contains a Python implementation of an SIR infection model, which simulates the spread of an infectious disease through a networked population. The model simulates infection as a per-edge Poisson point process and uses the event-queue method.
 </summary>
