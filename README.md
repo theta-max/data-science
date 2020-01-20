@@ -18,7 +18,7 @@ Together, these functions allow multiple model runs to be collated and aligned. 
  
 </details>
 
-#### Swapchain: network-based allocation ####
+### Swapchain: network-based allocation ####
 <details>
 <summary>swapchain.py was written to help a colleague in a history department manage module changes in a situation where most modules are full. The algorithm identifies all of the viable chains of module swaps from a given waiting list and outputs the necessary steps (chains may be mutually exclusive).
 </summary>
